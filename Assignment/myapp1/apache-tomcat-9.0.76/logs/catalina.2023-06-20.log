@@ -1,0 +1,85 @@
+20-Jun-2023 09:58:58.071 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.76
+20-Jun-2023 09:58:58.073 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 5 2023 07:17:04 UTC
+20-Jun-2023 09:58:58.082 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.76.0
+20-Jun-2023 09:58:58.082 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Jun-2023 09:58:58.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Jun-2023 09:58:58.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Jun-2023 09:58:58.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_311\jre
+20-Jun-2023 09:58:58.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_311-b11
+20-Jun-2023 09:58:58.083 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Jun-2023 09:58:58.084 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Ashish\apache-tomcat-9.0.76
+20-Jun-2023 09:58:58.084 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Ashish\apache-tomcat-9.0.76
+20-Jun-2023 09:58:58.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Ashish\apache-tomcat-9.0.76\conf\logging.properties
+20-Jun-2023 09:58:58.123 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Jun-2023 09:58:58.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Jun-2023 09:58:58.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Jun-2023 09:58:58.124 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Jun-2023 09:58:58.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Ashish\apache-tomcat-9.0.76
+20-Jun-2023 09:58:58.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Ashish\apache-tomcat-9.0.76
+20-Jun-2023 09:58:58.126 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Ashish\apache-tomcat-9.0.76\temp
+20-Jun-2023 09:58:58.133 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_311\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Program Files\MySQL\MySQL Workbench 8.0 CE;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\IET\AppData\Local\Microsoft\WindowsApps;C:\Users\IET\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\IET\AppData\Roaming\npm;.]
+20-Jun-2023 09:58:58.660 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Jun-2023 09:58:58.718 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1018] milliseconds
+20-Jun-2023 09:58:58.805 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Jun-2023 09:58:58.807 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.76]
+20-Jun-2023 09:58:58.820 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\docs]
+20-Jun-2023 09:58:59.324 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\docs] has finished in [503] ms
+20-Jun-2023 09:58:59.325 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\examples]
+20-Jun-2023 09:58:59.974 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\examples] has finished in [648] ms
+20-Jun-2023 09:58:59.974 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\host-manager]
+20-Jun-2023 09:59:00.012 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\host-manager] has finished in [38] ms
+20-Jun-2023 09:59:00.013 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\manager]
+20-Jun-2023 09:59:00.062 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\manager] has finished in [49] ms
+20-Jun-2023 09:59:00.063 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\ROOT]
+20-Jun-2023 09:59:00.108 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\ROOT] has finished in [45] ms
+20-Jun-2023 09:59:00.112 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Jun-2023 09:59:00.133 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1413] milliseconds
+20-Jun-2023 09:59:30.136 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\myapp]
+20-Jun-2023 09:59:30.198 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\myapp] has finished in [62] ms
+20-Jun-2023 10:02:00.400 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/D:/Ashish/apache-tomcat-9.0.76/conf/tomcat-users.xml]
+20-Jun-2023 10:04:17.196 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Jun-2023 10:04:17.263 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Jun-2023 10:04:17.303 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Jun-2023 10:04:17.315 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Jun-2023 10:04:27.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.76
+20-Jun-2023 10:04:27.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 5 2023 07:17:04 UTC
+20-Jun-2023 10:04:27.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.76.0
+20-Jun-2023 10:04:27.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Jun-2023 10:04:27.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Jun-2023 10:04:27.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Jun-2023 10:04:27.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_311\jre
+20-Jun-2023 10:04:27.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_311-b11
+20-Jun-2023 10:04:27.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Jun-2023 10:04:27.643 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Ashish\apache-tomcat-9.0.76
+20-Jun-2023 10:04:27.644 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Ashish\apache-tomcat-9.0.76
+20-Jun-2023 10:04:27.644 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Ashish\apache-tomcat-9.0.76\conf\logging.properties
+20-Jun-2023 10:04:27.644 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Jun-2023 10:04:27.644 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Jun-2023 10:04:27.645 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Jun-2023 10:04:27.645 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Jun-2023 10:04:27.645 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Ashish\apache-tomcat-9.0.76
+20-Jun-2023 10:04:27.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Ashish\apache-tomcat-9.0.76
+20-Jun-2023 10:04:27.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Ashish\apache-tomcat-9.0.76\temp
+20-Jun-2023 10:04:27.655 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_311\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Program Files\MySQL\MySQL Workbench 8.0 CE;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\IET\AppData\Local\Microsoft\WindowsApps;C:\Users\IET\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\IET\AppData\Roaming\npm;.]
+20-Jun-2023 10:04:28.023 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Jun-2023 10:04:28.062 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [616] milliseconds
+20-Jun-2023 10:04:28.104 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Jun-2023 10:04:28.105 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.76]
+20-Jun-2023 10:04:28.115 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\docs]
+20-Jun-2023 10:04:28.413 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\docs] has finished in [297] ms
+20-Jun-2023 10:04:28.414 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\examples]
+20-Jun-2023 10:04:28.729 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\examples] has finished in [314] ms
+20-Jun-2023 10:04:28.729 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\host-manager]
+20-Jun-2023 10:04:28.759 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\host-manager] has finished in [29] ms
+20-Jun-2023 10:04:28.759 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\manager]
+20-Jun-2023 10:04:28.788 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\manager] has finished in [28] ms
+20-Jun-2023 10:04:28.788 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\myapp]
+20-Jun-2023 10:04:28.816 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\myapp] has finished in [28] ms
+20-Jun-2023 10:04:28.817 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\ROOT]
+20-Jun-2023 10:04:28.835 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Ashish\apache-tomcat-9.0.76\webapps\ROOT] has finished in [18] ms
+20-Jun-2023 10:04:28.838 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Jun-2023 10:04:28.854 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [791] milliseconds
+20-Jun-2023 10:05:32.409 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Jun-2023 10:05:32.471 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Jun-2023 10:05:32.530 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Jun-2023 10:05:32.535 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
